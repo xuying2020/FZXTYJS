@@ -9,4 +9,6 @@
 
 ![image](https://github.com/xuying2020/FZXTYJS/assets/114268932/2bbad74b-cae8-4da5-9f64-af658dd2b804)
 
+每年所内合作论文和非合作论文的占比
+![image](https://github.com/xuying2020/FZXTYJS/assets/114268932/2a0b1a13-9190-42fe-8d6c-f619b79e4aa4)
 
